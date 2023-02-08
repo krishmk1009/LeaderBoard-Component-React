@@ -1,0 +1,12 @@
+#root {
+  margin: 0;
+}
+body{
+  font-family: 'Quicksand';
+  background-color: '#e6e3e3'
+}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+.btn-leader{
+  color:red;
+}
